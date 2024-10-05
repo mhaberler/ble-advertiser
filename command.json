@@ -1,0 +1,11 @@
+{"mac":"F1:E2:D3:C4:B5:A6","adv":"0201060303AAFE","name":"MySpoofedDevice","appearance":832,"duration":10000}
+{"mac":"E5:77:AA:BB:CC:DD","adv":"0201060303AAFE","scan_raw":"09ff4c00020a00000000010203","duration":0}
+{"mac":"E5:77:AA:BB:CC:DD","adv":"0201060303AAFE","name":"BLAH","duration":10000}
+{"mac":"E5:77:AA:BB:CC:DD","adv":"0201060303AAFE","name":"BLAH","duration":300}
+{"mac":"C1:D2:E3:F4:A5:B6","adv":"020106","service_uuid":"FEAA","service_data":"00f211223344","duration":5000}
+{"mac":"C1:D2:E3:F4:A5:B6","name":"btHOME","service_uuid":"FCD2","service_data":"00f211223344","duration":5000}
+{"mac":"C1:D2:E3:F4:A5:B6","service_uuid":"FCD2","service_data":"00f211223344","duration":5000}
+{"mac":"E5:77:AA:BB:CC:DD","scan_raw":"0B16D2FC518756630057D0FF","name":"BLAH","duration":10000}
+{"mac":"E5:77:AA:BB:CC:DD","adv":"0616D2FC518756","duration":10000}
+{"mac":"C1:D2:E3:F4:A5:B6","name":"ABBAC","service_uuid":"FCD2","service_data":"00f211223344","duration":15000}
+{"mac":"C1:D2:E3:F4:A5:B6","name":"foobar","service_uuid":"FCD2","service_data":"440c0c30414b0843e50062c063ffff6390290a00","duration":15000}
