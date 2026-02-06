@@ -14,7 +14,7 @@ Will not work as-is on ESP32-P4 and friends.
 
 ## Build & Flash
 
-Requires [Pioarduino](https://github.com/pioarduino/platform-espressif32). Currently uses Espressif Arduino version 3.3.6. 
+Requires [Pioarduino](https://github.com/pioarduino/platform-espressif32). Currently uses Espressif Arduino version 3.3.6.
 
 ```bash
 # Build for M5Stack NanoC6
@@ -147,3 +147,22 @@ Packet #1
 ├── command.json             # Example JSON commands
 └── platformio.ini           # Build configuration
 ```
+
+### Related projects
+
+https://github.com/ericbarch/BLECast
+https://github.com/lucascoelhof/ESP32BleAdvertise/blob/master/src/ESP32BleAdvertise.h
+https://github.com/dramco-edu/ble-scan-adv-esp32/blob/main/src/main.cpp
+https://github.com/Wovyn/esp32-ble-advertisement-scanner-xiaomi-sensor-decoder/blob/main/src/esp32-ble-advertisement-scanner-xiaomi-sensor-decoder.ino
+https://github.com/teodorandrei/esp32_blespoof_gui
+https://github.com/cifertech/nRFBox/blob/main/README.md
+https://github.com/ckcr4lyf/EvilAppleJuice-ESP32/blob/master/src/EvilAppleJuice-ESP32-INO/EvilAppleJuice-ESP32-INO.ino
+https://github.com/tjpetz/mbed_BLE_GAP_advertiser/blob/main/mbed_BLE_GAP_advertiser.ino
+https://github.com/peterk54/ESP32BLESimpleAdvertiser/blob/master/examples/manufacturerdata/manufacturerdata.ino
+https://github.com/peterk54/ESP32BLESimpleAdvertiser/blob/master/examples/receiver/receiver.ino
+https://github.com/peterk54/ESP32BLESimpleAdvertiser/blob/master/examples/servicedata/servicedata.ino
+https://github.com/bchevreau/xgimi-ble-advertiser/blob/main/components/xgimi_ble_advertiser/xgimi_ble_advertiser.h
+https://github.com/suo235/esp32_ble_simple_advertise/blob/master/main/main.cpp
+https://github.com/cvonk/BLEscan/tree/main
+https://github.com/pvvx/ADV_BLE2UART.git
+
